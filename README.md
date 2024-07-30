@@ -29,7 +29,7 @@ detailed historical weather data for a particular location.
 
 #### Methodology
 
-I am going to several different neural networks (averaging their predictions).
+I have trained several different neural networks (averaging their predictions).
 
 #### Results
 
