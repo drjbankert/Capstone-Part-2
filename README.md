@@ -13,7 +13,8 @@ customer traffic at a business that is owned by one of my family members by anal
 weather information (e.g. temperature, precipitation probability, humidity, etc.)
 
 #### Rationale
-Why should anyone care about this question?
+
+This question is important because it can help the business more efficiently decide the staffing needs for a particular day. A day with a high predicted customer traffic will imply that more staff is needed while a day with a low predicted customer traffic will imply that fewer staff are needed for that day. This can save the business money by not overstaffing on low traffic days and make high traffic days less hectic by having an appropriate number of staff present.
 
 #### Research Question
 
