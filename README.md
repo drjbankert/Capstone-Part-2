@@ -41,9 +41,8 @@ the weather data to be able to predict the gross daily sales for the business.
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+https://github.com/drjbankert/Capstone-Part-1
+https://github.com/drjbankert/Capstone-Part-2
 
 
 ##### Contact and Further Information
